@@ -1,0 +1,16 @@
+1. Identificar los Principales Tipos de Quejas
+
+Se puede ver que destacan las quejas por ruido y aparcamiento ilegal.
+
+2. Analizar Quejas por Distrito
+
+Los distritos donde se realizan mas quejas son Brooklyin y Queens.
+
+3. Filtrar Quejas
+
+Hay un gran número de tipos de queja que no llega a las mil.
+Esto ocurre sobretodo porque hay muchos tipos de queja que no estan bien redactados.
+
+4. Comparación de Distritos para un Tipo Específico de Queja
+
+Los distritos donde mas quejas hay sobre la condicion de las calles son Brooklyin (+360k) y Queens (+420k).
